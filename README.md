@@ -20,10 +20,10 @@
 
 ## 🌟 Projetos em Destaque
 
-🔹 [HortiFruti App 🍇]([https://github.com/Gabriel-O-M-L/Organic_Food_app])  
+🔹 [HortiFruti App 🍇](https://github.com/Gabriel-O-M-L/Organic_Food_app)  
 API web com Django + App Flutter para vendas de hortifrúti com recomendação inteligente
 
-🔹 [Espetrograma 3D utilizando voxels📋]([https://github.com/FacoBackup/3D-Spectrogram])  
+🔹 [Espetrograma 3D utilizando voxels📋](https://github.com/FacoBackup/3D-Spectrogram)  
 Aplicativo web com Django + PostgreSQL para organização e produtividade
 
 ---
