@@ -24,7 +24,7 @@
 API web com Django + App Flutter para vendas de hortifrúti com recomendação inteligente
 
 🔹 [Espetrograma 3D utilizando voxels📋](https://github.com/FacoBackup/3D-Spectrogram)  
-Aplicativo web com Django + PostgreSQL para organização e produtividade
+Aplicativo que utiliza de voxel para a rasterização de curvas e espectrogramas
 
 ---
 
